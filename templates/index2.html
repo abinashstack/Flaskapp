@@ -1,0 +1,15 @@
+{% extends 'base1.html' %}
+
+{% block main %}
+
+<ul>
+{% for task in tasks %}
+
+
+    <h1>{{task.title}} created on {{task.date}}</h1>
+
+{% endfor %}
+</ul>
+
+
+{% endblock %}
