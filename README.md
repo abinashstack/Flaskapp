@@ -7,9 +7,15 @@
 * MYSQL WAS BEING USED FOR DATABASE HANDLING USING PYMYSQL
 
 
+# Licence
 
-## Author: ABINASH GOGOI
+<img align="left" alt="Apache Licence" width="200px" src="https://img.shields.io/github/license/abinashstack/pypi?style=for-the-badge" />
+<br/>
+
+# Author : Abinash Gogoi
+
+Reach me at : abinash.gogoi55@gmail.com
 
 
-Reach me  at : abinash.gogoi55@gmail.com
+
 
