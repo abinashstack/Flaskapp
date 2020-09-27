@@ -5,6 +5,14 @@
 * THE STYLING HAS BEEN DONE WITH CSS AND BOOTSTRAP
 * BACKEND USING FLASK
 * MYSQL WAS BEING USED FOR DATABASE HANDLING USING PYMYSQL
+<br/>
+
+## Tools and Languages Used:
+
+* Visual Studio Code
+* Javascript , HTML5 , Bootstrap
+* flask -package from pypi package
+<br/>
 
 
 # Licence
